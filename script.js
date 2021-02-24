@@ -2,22 +2,22 @@ var data={ "notes": [
     {
       "title": "Carrying the Fire",
       "author": 'Michael Collins',
-      "quote": "Man has always gone where he has been able to go. It&rsquo;s that simple. He will continue pushing back his frontier, no matter how far it may carry him from his homeland."
+      "quote": "El mejor momento para plantar un árbol era hace 20 años. El segundo mejor momento es AHORA."
     },
     {
       "title" : "Kitchen Confidential",
       "author": "Anthony Bourdain",
-      "quote": "Bigfoot understood that there are two types of people in this world: those who do what they say they&rsquo;re going to do&mdash;and everyone else."
+      "quote": "Cada día es una nueva oportunidad para cambiar tu vida."
     },
     {
       "title" : "Oracle Night",
       "author": "Paul Aster",
-      "quote": "We excreted autumn and winter colors, but running invisibly through our veins, the very stuff that kept us alive, was the crimson of a mad artist&mdash;a red as brilliant as fresh paint."
+      "quote": "El momento que da más miedo es siempre justo antes de empezar."
     },
     {
       "title": "The Sirens of Titan",
       "author": "Kurt Vonnegut",
-      "quote": "&ldquo;Only an Earthling year ago,&rdquo; said Constant. &ldquo;It took us that long to realize that a purpose of human life, no matter who is controlling it, is to love whoever is around to be loved.&rdquo;"
+      "quote": "Cuando te das cuenta que estás procrastinando preguntarte: ¿ Dé qué estoy intentando huir?"
     },
     {
       "title": "The Martian",
@@ -27,7 +27,7 @@ var data={ "notes": [
     {
       "title": "The Food Traveler&rsquo;s Handbook",
       "author": "Jodi Ettenburg",
-      "quote": "But even if I am not asking questions, I am watching. While eating my soup at a crowded street stall, I can look around and see the patterns and pleasures of those around me."
+      "quote": "No es la más inteligente de las especies la que sobrevive ni la más fuerte, sino la que sabe adaptarse al cambio."
     },
     {
       "title": "The Lathe of Heaven",
@@ -47,12 +47,12 @@ var data={ "notes": [
     {
       "title": "The Getting of Wisdom",
       "author": "Harry Handel Richardson",
-      "quote": "&ldquo;I say, M.P., if everybody told stories, and everybody knew everybody else was telling them, then truth woudln't be any good at all, would it? If nobody used it?&rdquo;"
+      "quote": "Los retos son lo que hacen la vida interesante, y superarlos es lo que hace que la vida tenga un significado."
     },
     {
       "title": "Inspector Singh Investigates: A Most Peculiar Malaysian Murder",
       "author": "Shamini Flint",
-      "quote": "Singaporeans were always adding to the list of reasons each one kept to hand, in case they met a Malaysian, of why it was so much better on the island than the peninsula. They ranged from law and order to cleanliness, from clean government to good schools, and always ended on the strength of the Singaporean economy. But in the end, the Malaysian would nod as if to agree to the points made&mdash;and then shrug to indicate that they probably wouldn’t trade passports, not really. And if pressed for a reason they would fall back on that old chestnut which somehow seemed to capture everything that was wrong about Singapore – but your government bans chewing gum."
+      "quote": "Las dificultades no existen para hacerte renunciar sino para hacerte más fuerte."
     },
     {
       "title": "Henry VI, Part 1",
@@ -87,7 +87,7 @@ var data={ "notes": [
     {
       "title": "Henry VI, Part 3",
       "author": "William Shakespeare",
-      "quote": "Ah! what a life were this! how sweet! how lovely!<br />Gives not the hawthorn bush a sweeter shade<br />To shepherds looking on their silly sheep<br />Than doth a rich embroider'd canopy<br />To kings that fear their subjects' treachery?<br />O yes, it doth; a thousandfold it doth."
+      "quote": "La vida es cómo una cámara: enfócate sólo en lo importante, captura los buenos momentos, saca de lo negativo algo positivo, y si no sale como esperabas, intenta una nueva toma."
     },
     {
       "title": "Shadow and Bone",
@@ -107,7 +107,7 @@ var data={ "notes": [
     {
       "title": "Outlander",
       "author": "Diana Gabaldon",
-      "quote": "&ldquo;I prayed all the way up that hill yesterday,&rquo; he said softly. &lquo;Not for you to stay; I didna think that would be right. I prayed I’d be strong enough to send ye away.&rdquo;"
+      "quote": "Ser grande no es una cuestión de tamaño sino de actitud."
     },
     {
       "title": "Dragonfly in Amber",

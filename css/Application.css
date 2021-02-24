@@ -100,6 +100,7 @@ blockquote {
     letter-spacing: 2px;
     padding: 5px 15px;
     text-transform: uppercase;
+    border-radius: 20px;
   }
   
   .next:hover {
