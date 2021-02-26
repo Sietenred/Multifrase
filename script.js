@@ -67,7 +67,7 @@ var data={ "notes": [
     {
       "title": "Henry VI, Part 2",
       "author": "William Shakespeare",
-      "quote": "The first thing we do, let's kill all the lawyers."
+      "quote": "No todo lo que brilla es oro."
     },
     {
       "title": "Inspector Singh Investigates: A Bali Conspiracy Most Foul",
